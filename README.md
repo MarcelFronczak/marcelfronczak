@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marcel Fronczak</h1>
+<h1 align="center">Marcel Fronczak</h1>
 <h3 align="center">A passionate of web development and modern technologies</h3>
 
 <h3>About me</h3>
