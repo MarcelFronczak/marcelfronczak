@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcel Fronczak</h1>
-<h3 align="center">A passionate of web development</h3>
+<h3 align="center">A passionate of web development and modern technologies</h3>
 
 - I’m currently learning **React, Typescript, Redux**
 
