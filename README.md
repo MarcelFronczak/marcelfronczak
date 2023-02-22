@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Marcel Fronczak</h1>
 <h3 align="center">A passionate of web development and modern technologies</h3>
 <br></br>
-- I’m currently learning **React, Typescript, Redux**
+-  I’m currently learning **React, Typescript, Redux**
 
-- All of my projects are available at [https://marcelfronczak.github.io/portfolio/](https://marcelfronczak.github.io/portfolio/)
+-  All of my projects are available at [https://marcelfronczak.github.io/portfolio/](https://marcelfronczak.github.io/portfolio/)
 
-- How to reach me: **marcel.fronczak@gmail.com**
+-  How to reach me **marcel.fronczak@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
