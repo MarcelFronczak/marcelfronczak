@@ -7,7 +7,7 @@
 <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.
 I focus on my goals and development, that’s why I willingly take up challenges and learn quickly.</br>As a hard-worker, team player and good colleague, I believe that I can add value to any team.</p>
 
--  [My Portfolio](https://marcelfronczak.github.io/portfolio/)
+[My Portfolio](https://marcelfronczak.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <ul>
