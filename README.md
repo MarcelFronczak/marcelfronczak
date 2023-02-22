@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://marcelfronczak.github.io/portfolio/](https://marcelfronczak.github.io/portfolio/)
 
-- 📫 How to reach me **marcel.fronczak@gmail.com**
+- 📫 How to reach me: **marcel.fronczak@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcel-fronczak-88523022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcel-fronczak-88523022b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcel-fronczak-88523022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcel-fronczak-88523022b" height="28" width="38" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
