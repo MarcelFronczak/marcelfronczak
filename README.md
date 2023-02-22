@@ -1,7 +1,7 @@
 <h1 align="center">Marcel Fronczak</h1>
 <h3 align="center">A passionate of web development and modern technologies</h3>
 </br>
-<img align="right" alt="typing" width="385" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="typing" width="365" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h3>About me</h3>
 <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.
@@ -9,7 +9,7 @@ I focus on my goals and development, that’s why I willingly take up challenges
 
 -  My Portfolio: [https://marcelfronczak.github.io/portfolio/](https://marcelfronczak.github.io/portfolio/)
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <ul>
   <li>
     608 562 772
