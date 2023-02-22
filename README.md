@@ -27,7 +27,7 @@ I focus on my goals and development, that’s why I willingly take up challenges
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-<br></br>
+</br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelfronczak&show_icons=true&locale=en&layout=compact" alt="marcelfronczak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelfronczak&show_icons=true&locale=en" alt="marcelfronczak" /></p>
