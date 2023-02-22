@@ -1,5 +1,5 @@
-<h1 align="center">Marcel Fronczak</h1>
-<h3 align="center">A passionate of web development and modern technologies</h3>
+<h1 align="left">Marcel Fronczak</h1>
+<h3 align="left">A passionate of web development and modern technologies</h3>
 </br>
 <img align="right" alt="typing" width="365" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
