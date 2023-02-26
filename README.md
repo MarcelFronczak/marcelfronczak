@@ -17,7 +17,7 @@ I focus on my goals and development, that’s why I willingly take up challenges
     marcel.fronczak@gmail.com
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/marcel-fronczak-88523022b" target="_blank" >LinkedIn</a>
+    <a href="https://www.linkedin.com/in/marcel-fronczak-88523022b" target="_blank" rel="noreferrer" >LinkedIn</a>
   </li>
 </ul>
 
