@@ -2,10 +2,8 @@
 <h3 align="left">A passionate of web development</br>and modern technologies</h3>
 </br>
 <img align="right" alt="typing" width="365" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<h3>About me</h3>
-<p>I enjoy bringing ideas to life in the browser.</p>
 
-[My Portfolio](https://marcelfronczak.github.io/portfolio/)
+<p>I enjoy bringing ideas to life in the browser.</p>
 
 <h3 align="left">Connect with me:</h3>
 <ul>
