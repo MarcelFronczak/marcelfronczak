@@ -3,8 +3,7 @@
 </br>
 <img align="right" alt="typing" width="365" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <h3>About me</h3>
-<p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.
-I focus on my goals and development, that’s why I willingly take up challenges and learn quickly.</br>As a hard-worker, team player and good colleague, I believe that I can add value to any team.</p>
+<p>I enjoy bringing ideas to life in the browser.</p>
 
 [My Portfolio](https://marcelfronczak.github.io/portfolio/)
 
